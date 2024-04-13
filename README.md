@@ -56,7 +56,19 @@ This is a collection of some small games that I implemented with Pygame in order
 
 ![image](https://github.com/tp-codings/PyGame/assets/118997294/420c3a9c-ffa9-43e4-85eb-ff421fba0466)
 
+# Open Issues
+- that snake raster matrix is just cosmetics
+- error handling does not exist
 
+# Contact Information
+
+Feel free to reach out to me:
+
+- **Email:** [tobipaul50@gmail.com](mailto:tobipaul50@gmail.com)
+- **LinkedIn:** [Tobias Paul](https://www.linkedin.com/in/tobias-paul-657513276/)
+- **GitHub:** [@tp-codings](https://github.com/tp-codings)
+
+Looking forward to connecting with you! 😊
 
 
 
