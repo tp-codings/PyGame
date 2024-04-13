@@ -1,5 +1,5 @@
 # PyGame
-This is a collection of some small games that I implemented with Pygame in order to learn python and this library.
+This is a collection of some small games that I implemented with Pygame in order to learn python and this library. This was one of my first python experiences.
 
 ## Project Overview
 
@@ -32,5 +32,32 @@ This is a collection of some small games that I implemented with Pygame in order
 
 ## Usage
 
-`python PyGame.py`
-If needed, change video and path in code (no argparser o.s.)
+`python Snake.py`
+`python Tetris.py`
+`python VierGewinntPro.py`
+
+## Controls
+### Snake 
+- Arrow-Left: left
+- Arrow-Right: Right
+- Arrow-Up: Up
+- Arrow-Down: Down
+
+### Tetris
+- Arrow-Left: left
+- Arrow-Right: right
+- Arrow-Up: change rotation
+- Arrow-Down: speed up
+
+# Examples
+![image](https://github.com/tp-codings/PyGame/assets/118997294/bf37c01f-6204-40e1-bd2f-b5cad1d29579)
+
+![image](https://github.com/tp-codings/PyGame/assets/118997294/82519be3-cf53-41e4-b4b7-81355ad86ead)
+
+![image](https://github.com/tp-codings/PyGame/assets/118997294/420c3a9c-ffa9-43e4-85eb-ff421fba0466)
+
+
+
+
+
+
